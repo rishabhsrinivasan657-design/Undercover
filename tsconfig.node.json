@@ -20,10 +20,7 @@
     "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true,
-
-    "jsx": "react-jsx"                // 🔥 REQUIRED
+    "noUncheckedSideEffectImports": true
   },
-
   "include": ["vite.config.ts"]
 }
